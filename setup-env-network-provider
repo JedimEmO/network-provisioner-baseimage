@@ -1,0 +1,4 @@
+#! /bin/sh
+export TEMPLATECONF=../meta-network-provider/conf
+. layers/openembedded-core/oe-init-build-env
+

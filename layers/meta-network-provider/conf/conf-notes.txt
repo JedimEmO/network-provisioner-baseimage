@@ -1,0 +1,6 @@
+### Successfully activated meta-network-provider ###
+
+You can now run 'bitbake <target>'
+
+Common targets are:
+    network-provisioner-image
